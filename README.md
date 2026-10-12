@@ -107,7 +107,20 @@ imprimable en PDF. Aucune machine n'est analysée : c'est un modèle pédagogiqu
 ## 🖼️ En images
 
 <div align="center">
-<img src="docs/screenshots/01-demonstrations.png" alt="Démonstrations CyberVigie" width="800">
+
+<img src="docs/screenshots/01-demonstrations.png" alt="Démonstration : force d'un mot de passe" width="820">
+<sub><i>Démonstration — force d'un mot de passe.</i></sub>
+
+<br><br>
+
+<img src="docs/screenshots/02-sensibilisation.png" alt="Fiches de sensibilisation par thème" width="820">
+<sub><i>Sensibilisation — 57 fiches classées par thème, risque + protection.</i></sub>
+
+<br><br>
+
+<img src="docs/screenshots/03-rapport.png" alt="Rapport de sensibilisation d'exemple" width="820">
+<sub><i>Rapport d'exemple — fictif, exportable en HTML. Aucune machine n'est analysée.</i></sub>
+
 </div>
 
 <br>
